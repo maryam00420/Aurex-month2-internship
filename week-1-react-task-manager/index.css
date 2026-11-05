@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  background: linear-gradient(135deg, #eef2ff, #f5f3ff);
+  color: #1f2937;
+  min-height: 100vh;
+}
